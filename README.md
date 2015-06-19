@@ -1,5 +1,4 @@
-# scrabble_word_website
-Title: Dictionary Project
+# scrabble Word Website
 
 Author: Steve Schneider
 
